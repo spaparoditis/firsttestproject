@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_New Complaint</name>
+   <tag></tag>
+   <elementGuidId>ad0b3a95-e80a-4edf-a901-2261e9b62d3b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div/div[2]/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c737c337-da1c-4da0-a2b8-ded7cac41d2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-content</value>
+      <webElementGuid>cef8dbb2-21de-42b3-9832-053baff001c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>New Complaint</value>
+      <webElementGuid>c5fa4da5-d588-4a0c-9f77-ec2a2dd3622a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-page&quot;]/div[@class=&quot;rc-scrollbars-container sc-hAZoDl eayMnQ&quot;]/div[@class=&quot;rc-scrollbars-view&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sc-ezWOiH fcDVar panel&quot;]/div[@class=&quot;sc-bZkfAO gdScBn&quot;]/button[@class=&quot;ant-btn ant-btn-default&quot;]/span[@class=&quot;button-content&quot;]</value>
+      <webElementGuid>fe39d38c-f440-4bb4-85c9-2311b5b54a6a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div/div[2]/button/span</value>
+      <webElementGuid>cce158b5-e05b-4054-a2d1-995d70356299</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Complaints'])[2]/following::span[1]</value>
+      <webElementGuid>b66a0334-0d20-406e-a1aa-63292e03f796</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Document Submission'])[1]/following::span[1]</value>
+      <webElementGuid>b5c6d33a-e208-444f-8689-a18ff72d2344</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quick Search'])[1]/preceding::span[1]</value>
+      <webElementGuid>2db90820-9c29-4bcc-b564-b91311260840</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All fields'])[1]/preceding::span[2]</value>
+      <webElementGuid>f82d4436-9099-4295-a5d8-f5bfb017152e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='New Complaint']/parent::*</value>
+      <webElementGuid>544d6041-c7eb-4aa3-8b14-7f3e614a2123</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>c2fcd284-22d1-4b87-a779-37b00dd33d5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'New Complaint' or . = 'New Complaint')]</value>
+      <webElementGuid>10899534-215e-472a-9d2d-8057212599dc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label__input-control checkbox</name>
+   <tag></tag>
+   <elementGuidId>3fe62533-a693-4e39-ad68-55b6dec5c831</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='e1ba2f8b-d46c-407e-9eeb-3c3a63654e8a']/div/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#e1ba2f8b-d46c-407e-9eeb-3c3a63654e8a > div.checkbox-outer-panel > label.input-control.checkbox</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>a85653f0-1f58-45ab-a53a-a8b89aec083d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control checkbox</value>
+      <webElementGuid>e2ded6d0-fb22-41ee-9365-a26d28e3d9a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-defaultvalue</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>97da60a7-8e46-4c6d-8273-03f72ce8c12b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;e1ba2f8b-d46c-407e-9eeb-3c3a63654e8a&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]</value>
+      <webElementGuid>92a9f79f-cfa6-4deb-94d9-076e1fd3a0ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4_5</value>
+      <webElementGuid>68813a47-b6bc-448a-a23b-00b6acddf835</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='e1ba2f8b-d46c-407e-9eeb-3c3a63654e8a']/div/label</value>
+      <webElementGuid>f9061b38-8061-4686-8b6d-e62c9c067224</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>14fa48af-1c39-4c48-ae65-46013550556c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::label[2]</value>
+      <webElementGuid>f0967ea8-b5a3-4658-80a7-86afabd0aefd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[5]/preceding::label[1]</value>
+      <webElementGuid>e91196e6-6bcf-4a9f-b83e-92bab5b6d9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[18]/div/label</value>
+      <webElementGuid>55ebf59b-4aa7-49ec-8636-1afd1a0ec246</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

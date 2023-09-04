@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>User Management Service</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e7030e01-1098-4e99-992b-79f40b744bc2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>aee95317-5305-4f67-9021-f7f375085736</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dee2c8b9-5d8f-4f6b-b345-20f7203f9e56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9dfa91a1-5eeb-4a95-bcf7-5bb4ec3f5831</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'EN'</defaultValue>
+      <description></description>
+      <id>aee95317-5305-4f67-9021-f7f375085736</id>
+      <masked>false</masked>
+      <name>lang</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pan11'</defaultValue>
+      <description></description>
+      <id>dee2c8b9-5d8f-4f6b-b345-20f7203f9e56</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>9dfa91a1-5eeb-4a95-bcf7-5bb4ec3f5831</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_BETATHLON LTD (B308)</name>
+   <tag></tag>
+   <elementGuidId>47da3b11-819a-40ca-9617-424da26334a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#d50743bd-f2ef-c2f2-6d00-7b3fc60c1800_514655df-0d90-4b03-9986-21909a2ea7f1_droplist > div.drop-menu-m > div.drop-menu-m-c > div.drop-menu-wrapper > ul.drop-menu > li:nth-of-type(4) > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='d50743bd-f2ef-c2f2-6d00-7b3fc60c1800_514655df-0d90-4b03-9986-21909a2ea7f1_droplist']/div[2]/div[2]/div/ul/li[4]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>294445ab-f9ab-428f-8768-f788fd3aab74</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>5630c4b9-0abd-426e-a9e7-3aad035341e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BETATHLON LTD (B308)</value>
+      <webElementGuid>81a283dd-a749-47ba-9e85-20aa8c25e210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;d50743bd-f2ef-c2f2-6d00-7b3fc60c1800_514655df-0d90-4b03-9986-21909a2ea7f1_droplist&quot;)/div[@class=&quot;drop-menu-m&quot;]/div[@class=&quot;drop-menu-m-c&quot;]/div[@class=&quot;drop-menu-wrapper&quot;]/ul[@class=&quot;drop-menu&quot;]/li[4]/a[1]</value>
+      <webElementGuid>2055c013-ba1f-4480-a524-75cfb4ad2198</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Complaint/Page_NBA/iframe_Application_frame-content</value>
+      <webElementGuid>33e142be-6a07-4916-be98-67900a77c95e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='d50743bd-f2ef-c2f2-6d00-7b3fc60c1800_514655df-0d90-4b03-9986-21909a2ea7f1_droplist']/div[2]/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>1b5a2ebe-5683-473c-90e0-31e16481304e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BETATHLON LTD (B9999)'])[1]/following::a[1]</value>
+      <webElementGuid>454be5e8-0a99-420e-8f01-0b30feaae7ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ariba (B205)'])[1]/following::a[2]</value>
+      <webElementGuid>305c5569-1b9f-4ed5-bcf4-2ff709ef52a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cetty (B066)'])[1]/preceding::a[1]</value>
+      <webElementGuid>678dfafb-fefc-46a3-adcb-6e269b44ca0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[105]</value>
+      <webElementGuid>58c41fd2-9392-45cd-b8ac-6501cece824d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[12]/div[2]/div[2]/div/ul/li[4]/a</value>
+      <webElementGuid>424e1575-2e4f-49d4-99a2-452ca0f80fd9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;' and (text() = 'BETATHLON LTD (B308)' or . = 'BETATHLON LTD (B308)')]</value>
+      <webElementGuid>216be0b9-605b-453f-9b37-977e70ceee00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

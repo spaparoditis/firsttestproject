@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_</name>
+   <tag></tag>
+   <elementGuidId>f52c6989-fd72-4fc8-86a6-1eb5facc9474</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6df8ea10-f1e5-377c-e725-ec86a1db6ae0_a960a09f-22bb-fd9e-08fe-2822dff489ef_FilePanel']/label</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6df8ea10-f1e5-377c-e725-ec86a1db6ae0_a960a09f-22bb-fd9e-08fe-2822dff489ef_FilePanel > label.file-label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>d6f9ca0c-f2c4-412a-9897-af89786282e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>6df8ea10-f1e5-377c-e725-ec86a1db6ae0_a960a09f-22bb-fd9e-08fe-2822dff489ef_file-inputId</value>
+      <webElementGuid>b3a0627f-69b7-4d50-9f21-36f98c9a565c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>file-label</value>
+      <webElementGuid>1debe374-5da0-42be-82fc-0d11d7dff40a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> </value>
+      <webElementGuid>0fb05e21-efe3-4ff2-9524-f6ede50a551c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6df8ea10-f1e5-377c-e725-ec86a1db6ae0_a960a09f-22bb-fd9e-08fe-2822dff489ef_FilePanel&quot;)/label[@class=&quot;file-label&quot;]</value>
+      <webElementGuid>309e1290-388c-473f-957c-54a526bf1415</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4</value>
+      <webElementGuid>ddda9aa0-7f4f-472a-bd86-439ce3b5ee87</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6df8ea10-f1e5-377c-e725-ec86a1db6ae0_a960a09f-22bb-fd9e-08fe-2822dff489ef_FilePanel']/label</value>
+      <webElementGuid>fd9c39f8-bb0a-4624-ba7d-afef6f83ad59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to attach a file'])[12]/following::label[1]</value>
+      <webElementGuid>7073844a-ad14-4ff5-87c5-f88733ba8af7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='File Name'])[6]/following::label[1]</value>
+      <webElementGuid>4d3ca968-4c44-47ff-ad77-f866f0143c78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to attach a file'])[13]/preceding::label[1]</value>
+      <webElementGuid>39442696-350f-487e-a93e-433a9ba8f6b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Certificate of Registration European Citizen:*'])[1]/preceding::label[2]</value>
+      <webElementGuid>d245b5ba-2654-4ea3-8100-03c94923a10c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/table/tbody/tr/td/div/div/div/label</value>
+      <webElementGuid>6e4a9785-389b-4d4e-b27f-2bad93606ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = ' ' or . = ' ')]</value>
+      <webElementGuid>6766be9c-a071-4f19-b243-544f76ac05fd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

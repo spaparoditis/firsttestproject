@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Person In Charge Details</name>
+   <tag></tag>
+   <elementGuidId>d6d42596-8f7e-4863-90dd-0ce5fe2fdfaa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='rc-menu-uuid-85004-1-210-popup']/li/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.menu_item-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c4cccc7e-2068-42f9-badc-5e5fef73975c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_item-text</value>
+      <webElementGuid>464b82bd-7355-4c65-906c-9bbfdf63fe92</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Person In Charge Details</value>
+      <webElementGuid>12b2addb-9a24-4389-a36b-cf6c9f9b9002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;rc-menu-uuid-85004-1-210-popup&quot;)/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-only-child sc-dIouRR dfZFLQ&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;menu_item-text-wrapper&quot;]/span[@class=&quot;menu_item-text&quot;]</value>
+      <webElementGuid>9df4ce10-881e-4899-8442-4d042716434c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='rc-menu-uuid-85004-1-210-popup']/li/span/div/span</value>
+      <webElementGuid>8f4a39ed-4851-4c94-befd-844f2019c92f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Person In Charge'])[1]/following::span[2]</value>
+      <webElementGuid>3ecc69ec-bc94-49da-81ef-09a44de32675</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Application'])[1]/following::span[3]</value>
+      <webElementGuid>1ef2b419-badb-448b-aba8-9a610fb9327e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Residence Addresses'])[1]/preceding::span[1]</value>
+      <webElementGuid>58c0c5c9-df3e-4a48-9505-36045509a2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Details'])[1]/preceding::span[3]</value>
+      <webElementGuid>c9113d24-62e5-458d-9206-51dead7536ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Person In Charge Details']/parent::*</value>
+      <webElementGuid>48613df7-827f-48f6-83c3-c4ee33f3ee00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/span</value>
+      <webElementGuid>0e09686b-24d6-4aab-8011-0e131a5b532b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Person In Charge Details' or . = 'Person In Charge Details')]</value>
+      <webElementGuid>3d250a61-48b7-4663-86da-10634a1d580f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

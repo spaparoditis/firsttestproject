@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login Health Care</description>
+   <name>Login Health Care</name>
+   <tag>LHC</tag>
+   <comment></comment>
+   <testCaseGuid>c1b28f60-e706-46eb-9da9-589af7e94510</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Complaints</name>
+   <tag></tag>
+   <elementGuidId>b282b9ac-7494-432d-94af-b5f1283fa6c4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.ant-menu-item.ant-menu-item-active.ant-menu-item-only-child.sc-dIouRR.dfZFLQ > span.ant-menu-title-content > div.menu_item-text-wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header__main-nav']/aside/div/nav/div/div/ul/li[4]/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2cda63a2-5814-450c-ad18-65f5065d6d4f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu_item-text-wrapper</value>
+      <webElementGuid>0eed6a70-c84c-49f2-8e1a-ef4696898729</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Complaints</value>
+      <webElementGuid>2ae550b4-bb2d-43f9-a06e-a3e522c97dbe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__main-nav&quot;)/aside[@class=&quot;ant-layout-sider ant-layout-sider-dark sc-fEOsli iYQQlF sidebar-container&quot;]/div[@class=&quot;ant-layout-sider-children&quot;]/nav[@class=&quot;sidebar&quot;]/div[@class=&quot;sidebar-menu-wrapper&quot;]/div[@class=&quot;sidebar-menu-container&quot;]/ul[@class=&quot;ant-menu ant-menu-root ant-menu-inline ant-menu-light sc-bjUoiL iCCeDY&quot;]/li[@class=&quot;ant-menu-item ant-menu-item-active ant-menu-item-only-child sc-dIouRR dfZFLQ&quot;]/span[@class=&quot;ant-menu-title-content&quot;]/div[@class=&quot;menu_item-text-wrapper&quot;]</value>
+      <webElementGuid>fb8a71a0-53c1-4796-bf9b-056de4873f27</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header__main-nav']/aside/div/nav/div/div/ul/li[4]/span/div</value>
+      <webElementGuid>bd239e83-7d21-419a-8a27-8c154ca9044c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Tasks'])[1]/following::div[1]</value>
+      <webElementGuid>80a8aadd-95fc-4662-ab0c-b56936191128</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notifications'])[1]/following::div[2]</value>
+      <webElementGuid>1923ccd0-dd76-48b4-8799-2c2876e5c862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Announcements'])[1]/preceding::div[1]</value>
+      <webElementGuid>9f72d082-d01d-4467-a4cb-65e2686863ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft License Applications'])[1]/preceding::div[2]</value>
+      <webElementGuid>649fe27e-d460-4350-928b-d69a277833e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Complaints']/parent::*</value>
+      <webElementGuid>92c30de9-7bd7-4b47-962c-7e893b956a4b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/span/div</value>
+      <webElementGuid>6e7f29c9-eba8-4c49-9ff3-7d34556cf638</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Complaints' or . = 'Complaints')]</value>
+      <webElementGuid>0e9bf05b-9201-40f7-8d6e-dc4bd35e24c8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

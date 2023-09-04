@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Contact Us</name>
+   <tag></tag>
+   <elementGuidId>5cda9884-a4be-4c9a-adce-13476edf91d9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/footer/div/div/section[2]/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>57c3ce1d-63d8-4195-b21c-d054733cd681</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://dk2.bssdev.local/K2RestWeb/editor?id=0&amp;type=contact_us&amp;mode=send</value>
+      <webElementGuid>4a2f524a-b225-46eb-b37e-72dbadca5969</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contact Us</value>
+      <webElementGuid>ed7838e9-68d3-4e68-9fe4-176d2770f7b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-page&quot;]/div[@class=&quot;rc-scrollbars-container sc-hAZoDl eayMnQ&quot;]/div[@class=&quot;rc-scrollbars-view&quot;]/footer[@class=&quot;ant-layout-footer sc-bczRLJ gNyshe&quot;]/div[@class=&quot;sc-gsnTZi kfitSj&quot;]/div[@class=&quot;sc-dkzDqf iZrSCX&quot;]/section[@class=&quot;footer_contact&quot;]/ul[@class=&quot;sc-jSMfEi etSUXv&quot;]/li[@class=&quot;sc-gKXOVf jBhBUL&quot;]/a[1]</value>
+      <webElementGuid>99c92a0d-4b06-4c84-ab60-cb59ab196250</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/footer/div/div/section[2]/ul/li[2]/a</value>
+      <webElementGuid>38c1f77a-f86a-49a2-9ed9-e04ad86f875b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Contact Us')]</value>
+      <webElementGuid>badeb6ab-4e1d-445c-b7fb-082815c7f689</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HOME'])[1]/following::a[1]</value>
+      <webElementGuid>6f637387-ebef-48ba-b1ba-21c237bcc522</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SITEMAP'])[1]/following::a[2]</value>
+      <webElementGuid>5c40c92b-1093-496e-b6ec-265032f9a174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ABOUT US'])[1]/preceding::a[1]</value>
+      <webElementGuid>7526a872-6f81-4000-b12a-4b3199a86e7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRIVACY POLICY'])[1]/preceding::a[2]</value>
+      <webElementGuid>5d96bfd4-cf81-42de-8a04-405f7981c998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contact Us']/parent::*</value>
+      <webElementGuid>41842696-54a7-418a-82a6-3a6602597189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://dk2.bssdev.local/K2RestWeb/editor?id=0&amp;type=contact_us&amp;mode=send')]</value>
+      <webElementGuid>d48bcb9d-8d1e-4b81-a436-11ef12428b78</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>7787a1aa-6c3b-40e5-b958-5bc09d4af707</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://dk2.bssdev.local/K2RestWeb/editor?id=0&amp;type=contact_us&amp;mode=send' and (text() = 'Contact Us' or . = 'Contact Us')]</value>
+      <webElementGuid>92067433-1dc3-4b25-8f7b-b01f8a126a9b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

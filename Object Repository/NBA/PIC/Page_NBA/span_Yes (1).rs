@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Yes (1)</name>
+   <tag></tag>
+   <elementGuidId>fa6b1da6-013a-44b4-9211-777ea3c4f55e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div[3]/div/div[3]/div/div/div/div[2]/div/div[2]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-primary.ant-btn-sm > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f87751f6-f8f0-43b5-8e55-c823025d78e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>7b43b3fc-7d77-464a-b895-c1b1b85d84a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-page&quot;]/div[@class=&quot;rc-scrollbars-container sc-hAZoDl eayMnQ&quot;]/div[@class=&quot;rc-scrollbars-view&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;container form-container&quot;]/div[@class=&quot;sc-himrzO lowysZ&quot;]/div[@class=&quot;panel&quot;]/div[3]/div[1]/div[@class=&quot;ant-popover ant-popconfirm submit-license-popconfirm ant-popover-placement-topLeft&quot;]/div[@class=&quot;ant-popover-content&quot;]/div[@class=&quot;ant-popover-inner&quot;]/div[@class=&quot;ant-popover-inner-content&quot;]/div[@class=&quot;ant-popover-buttons&quot;]/button[@class=&quot;ant-btn ant-btn-primary ant-btn-sm&quot;]/span[1]</value>
+      <webElementGuid>5b3926bb-0b3e-4e44-8341-aa10a6af2481</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div[3]/div/div[3]/div/div/div/div[2]/div/div[2]/button[2]/span</value>
+      <webElementGuid>b5e99627-ce1d-4d97-befe-1cf6121e812c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::span[1]</value>
+      <webElementGuid>04e378e6-8e3f-49ba-809c-79ae6eb48336</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/following::span[4]</value>
+      <webElementGuid>9ed54099-a52f-49a0-aee4-81fb030021e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2023 © National Betting Authority, All Rights Reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>576b9e21-91dd-4992-b559-e11bd0e01b02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SITEMAP'])[1]/preceding::span[2]</value>
+      <webElementGuid>45d6f355-e272-4636-88c5-94332a301edf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Yes']/parent::*</value>
+      <webElementGuid>4ab5a440-681e-44bd-9c7e-73e6b130083a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>a54601a4-050d-498d-8faf-8d79253c9220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>28dd8bc9-782a-4772-9aa9-cacd2b3e3e1b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

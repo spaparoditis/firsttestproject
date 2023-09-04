@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Type a value</name>
+   <tag></tag>
+   <elementGuidId>30273a76-3603-4681-85b1-541e3ea8f30e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='6cb05c46-f958-47fb-9988-51dd6cf63813']/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.input-control-watermark</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>1f579643-68c0-4abd-a01b-ec9528faf68a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-watermark</value>
+      <webElementGuid>3fdac045-e6a0-4c10-bc84-19a3903ca872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type a value</value>
+      <webElementGuid>f4313e02-cd36-4148-b475-dfbbc3f42299</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6cb05c46-f958-47fb-9988-51dd6cf63813&quot;)/div[@class=&quot;input-control text-input&quot;]/div[@class=&quot;input-control-m&quot;]/div[@class=&quot;input-control-m-c&quot;]/div[@class=&quot;input-control-wrapper&quot;]/div[@class=&quot;input-control-watermark&quot;]</value>
+      <webElementGuid>7ccef4d2-6a61-4bed-9930-8620feb463b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Contact Us Anonymous User/Page_- Contact Us/iframe_Contact Us_K2smartformFrame</value>
+      <webElementGuid>ada6bbd3-b16b-456c-8e0f-824e622dd244</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='6cb05c46-f958-47fb-9988-51dd6cf63813']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>69117386-0d74-41d8-966b-d65337686946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[6]/following::div[10]</value>
+      <webElementGuid>9628616b-dfe7-4150-9675-23317f8d4c35</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Details'])[1]/following::div[10]</value>
+      <webElementGuid>c1d8a0b7-30d7-451d-aacf-91e2a637ccb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attachments'])[1]/preceding::div[6]</value>
+      <webElementGuid>fb4f0aa4-8e29-46c4-8b7a-86f5163a2ddc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to attach a file'])[1]/preceding::div[8]</value>
+      <webElementGuid>9b67c3e1-97d2-44ad-b824-9b62f530034f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Type a value']/parent::*</value>
+      <webElementGuid>f8e81345-b00f-47ff-8159-86f5fcecbd86</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[10]/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>bbeb172a-15ac-48dd-8665-6092bc016648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Type a value' or . = 'Type a value')]</value>
+      <webElementGuid>d545bd9c-52a3-45a9-bbe7-3a520b0df381</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

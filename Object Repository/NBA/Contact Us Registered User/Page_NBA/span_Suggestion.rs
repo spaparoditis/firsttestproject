@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Suggestion</name>
+   <tag></tag>
+   <elementGuidId>485c6e9d-947b-494a-a563-cfcc86668af9</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='8ae8ed46-3080-4c4c-9d3c-b44d4931a407_e046f48b-b185-4840-8095-4383736d3f48']/div/div/div/div[2]/div/label/span[2]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Suggestion' or . = 'Suggestion') and @ref_element = 'Object Repository/NBA/Contact Us Registered User/Page_NBA/iframe_Send Contact Us_frame-content']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7a0cfc05-e557-4d82-8fc5-e23983e671c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-text</value>
+      <webElementGuid>36e1a521-3612-4740-9617-2e3cd0f1684d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Suggestion</value>
+      <webElementGuid>b505b28f-df3d-4780-9b27-689f576a20d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;8ae8ed46-3080-4c4c-9d3c-b44d4931a407_e046f48b-b185-4840-8095-4383736d3f48&quot;)/div[@class=&quot;stylewrapper&quot;]/div[@class=&quot;controlWrapper&quot;]/div[@class=&quot;stackContainer radio&quot;]/div[@class=&quot;stack&quot;]/div[@class=&quot;choice-control-item-row&quot;]/label[@class=&quot;input-control radio&quot;]/span[@class=&quot;input-control-text&quot;]</value>
+      <webElementGuid>209f1ab3-abbd-4ddc-a52b-78d2faad0d11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Contact Us Registered User/Page_NBA/iframe_Send Contact Us_frame-content</value>
+      <webElementGuid>b0e6f9e2-7749-4e5b-bc37-0e33f87ed971</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

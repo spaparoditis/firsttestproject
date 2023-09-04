@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img_1_2</name>
+   <tag></tag>
+   <elementGuidId>9bfd002f-ad57-4a8f-9944-7c66de758926</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='5d17a983-8967-4818-a2e6-867eb79f223b']/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#5d17a983-8967-4818-a2e6-867eb79f223b > div.checkbox-outer-panel > label.input-control.checkbox > span.input-control-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d08914cc-535d-4da0-8366-d5a8316ee949</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>62fc2e37-77ff-488a-9e6d-d32e93289a84</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5d17a983-8967-4818-a2e6-867eb79f223b&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>cc7fd8dc-6e48-4f19-a45e-537ab011b1be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4_5</value>
+      <webElementGuid>6b3a9336-0d34-4578-8947-c1f564f92e9f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='5d17a983-8967-4818-a2e6-867eb79f223b']/div/label/span</value>
+      <webElementGuid>42a01b90-24f2-4881-aafd-1535a15963ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[14]/div/label/span</value>
+      <webElementGuid>3efc556e-b8fa-4a3a-b159-e43c5ad0458e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

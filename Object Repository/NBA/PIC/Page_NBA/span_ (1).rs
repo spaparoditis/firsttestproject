@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ (1)</name>
+   <tag></tag>
+   <elementGuidId>8ba01935-4aa6-400a-b187-65c3a6edceb2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='fcb1d8f5-a620-406b-a0e2-ddfc0403c1c7_130cb806-e66a-4bf4-90e9-9ba1e47a71e4_Image']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#fcb1d8f5-a620-406b-a0e2-ddfc0403c1c7_130cb806-e66a-4bf4-90e9-9ba1e47a71e4_Image > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>d992672e-c8ce-4114-befa-a519a6224c1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...</value>
+      <webElementGuid>c8d342b1-6277-4437-a41c-384092eb0d13</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;fcb1d8f5-a620-406b-a0e2-ddfc0403c1c7_130cb806-e66a-4bf4-90e9-9ba1e47a71e4_Image&quot;)/span[1]/span[1]</value>
+      <webElementGuid>0f3939ca-5a06-4c6c-aef6-eeeff68f92ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3</value>
+      <webElementGuid>d5118b35-627b-45d2-8958-acc5ddc406c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='fcb1d8f5-a620-406b-a0e2-ddfc0403c1c7_130cb806-e66a-4bf4-90e9-9ba1e47a71e4_Image']/span/span</value>
+      <webElementGuid>2d2e005b-02b2-4d61-a8b7-3e3681105e27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[16]/following::span[4]</value>
+      <webElementGuid>fc455c14-0d0e-4e10-96f9-23523be3bb3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employment Start Date:'])[1]/following::span[5]</value>
+      <webElementGuid>4d84d37c-33dc-414e-9865-22c3fe1eca7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Social Security Number:'])[1]/preceding::span[1]</value>
+      <webElementGuid>6633431a-a5b2-4f48-92be-7c672d6ca05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[17]/preceding::span[2]</value>
+      <webElementGuid>ad8bbcfb-1f12-40b7-a025-209ce4ceeff3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[7]/div/span[3]/div/div/div[2]/a/span/span</value>
+      <webElementGuid>886c55f8-6b15-4db1-81b6-a13d87261bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '...' or . = '...')]</value>
+      <webElementGuid>4710453f-f790-4253-a285-ef8584be3a76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

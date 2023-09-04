@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>NBA Login Portal - Mobile Device</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>31d5c27f-a796-4579-9b74-0c3fe371a4fd</testSuiteGuid>
+   <testCaseLink>
+      <guid>f31748b2-29ff-4aca-9adc-523d2f961364</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <iterationNameVariable>
+         <defaultValue>'ANDROID'</defaultValue>
+         <description></description>
+         <id>3c88baa1-8440-45f7-aa13-25911dbb25b8</id>
+         <masked>false</masked>
+         <name>platformName</name>
+      </iterationNameVariable>
+      <testCaseId>Test Cases/NBA/Login Online Portal - Mobile Device</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3c88baa1-8440-45f7-aa13-25911dbb25b8</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f183a1da-46ad-4414-83dd-57ae352ceae5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

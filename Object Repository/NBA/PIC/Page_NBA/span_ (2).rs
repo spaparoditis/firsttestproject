@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_ (2)</name>
+   <tag></tag>
+   <elementGuidId>92ecdaad-1b75-49fa-b0b0-0d37bcf3299e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='eaf4041f-c9ca-47f5-9734-47547e2ee6ac_339d725a-bac2-4568-ae3f-7d3b2819f315_Image']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#eaf4041f-c9ca-47f5-9734-47547e2ee6ac_339d725a-bac2-4568-ae3f-7d3b2819f315_Image > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>787afa93-a983-4f10-869a-61dfb9215bb7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...</value>
+      <webElementGuid>c72ebd6d-39bf-4ba8-a4fd-48728e13c3aa</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;eaf4041f-c9ca-47f5-9734-47547e2ee6ac_339d725a-bac2-4568-ae3f-7d3b2819f315_Image&quot;)/span[1]/span[1]</value>
+      <webElementGuid>b9f64241-caa0-4cba-9cf4-8f26c97902f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4</value>
+      <webElementGuid>97a41063-be9d-448e-89ed-fbc07de1c572</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='eaf4041f-c9ca-47f5-9734-47547e2ee6ac_339d725a-bac2-4568-ae3f-7d3b2819f315_Image']/span/span</value>
+      <webElementGuid>9d502c3e-66e2-4683-8893-9d4f806d6ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select a date'])[1]/following::span[2]</value>
+      <webElementGuid>614ce093-4824-4d44-8ba3-58908cced6f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[27]/following::span[3]</value>
+      <webElementGuid>33b38a4b-1f36-44c6-a7d7-15d35b2cb2b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy of ID:*'])[1]/preceding::span[5]</value>
+      <webElementGuid>dd97504e-510b-4b1c-bc95-6f927831c3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/preceding::span[8]</value>
+      <webElementGuid>14330f60-f779-4bf4-a969-5502b06b48cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[12]/div/span/div/span[2]/div/div/div[2]/a/span/span</value>
+      <webElementGuid>6d023dce-1793-4245-ae3f-fe9f71a244be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '...' or . = '...')]</value>
+      <webElementGuid>1e29e6bb-fb46-42c3-b0a9-3123b485aa9d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

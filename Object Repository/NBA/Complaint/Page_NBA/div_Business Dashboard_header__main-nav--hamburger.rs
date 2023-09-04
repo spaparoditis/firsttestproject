@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Dashboard_header__main-nav--hamburger</name>
+   <tag></tag>
+   <elementGuidId>36fbd71f-d1f1-4e7d-a124-b3aca8df1dfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header__main-nav']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a5e5a143-0739-4e4c-9839-1a57d2b6f376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>header__main-nav--hamburger </value>
+      <webElementGuid>4ce69aa2-95af-4faa-a0c8-0f05bf025df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__main-nav&quot;)/div[@class=&quot;header__main-nav--hamburger&quot;]</value>
+      <webElementGuid>efb03db5-e714-4597-a1ed-9dd4f9f3824b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header__main-nav']/div</value>
+      <webElementGuid>5f04b042-c66e-4632-9fe9-473c3baa4a25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Business Dashboard'])[2]/following::div[1]</value>
+      <webElementGuid>daa68d9c-6321-4fb1-bede-3bfd017970b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Select your Dashboard:'])[1]/following::div[2]</value>
+      <webElementGuid>4cc70ec6-9983-4a89-939f-51bb39f1afb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Profile'])[1]/preceding::div[5]</value>
+      <webElementGuid>9d3552ca-6b6b-4582-ac64-ade4aa5774a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BETATHLON LTD'])[1]/preceding::div[6]</value>
+      <webElementGuid>97387267-272e-4aca-b0bc-53e526b90202</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div</value>
+      <webElementGuid>46741a16-3bd6-4251-8d7e-30ffba25b1a4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

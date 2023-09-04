@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>7680480c-1227-417a-a8d6-876bd9d8770d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='01e0167a-9f37-413f-bd43-be50d1021cd1']/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#01e0167a-9f37-413f-bd43-be50d1021cd1 > div.checkbox-outer-panel > label.input-control.checkbox > span.input-control-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6d8c8b6c-3e02-401a-8229-fc90267aafa1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>a3479908-aaa4-422b-847d-1f80d0357f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;01e0167a-9f37-413f-bd43-be50d1021cd1&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>ba9cc322-5158-476a-bcdd-a40358563f3e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4_5</value>
+      <webElementGuid>75c716db-a101-4f89-b272-46d3704f4206</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='01e0167a-9f37-413f-bd43-be50d1021cd1']/div/label/span</value>
+      <webElementGuid>5753d986-3114-4e73-9212-e4cb8e8054d8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[22]/div/label/span</value>
+      <webElementGuid>ac6a9047-0ddc-4cb1-9f58-4fd6f1bb5483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

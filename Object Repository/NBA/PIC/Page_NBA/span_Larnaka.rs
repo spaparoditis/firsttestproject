@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Larnaka</name>
+   <tag></tag>
+   <elementGuidId>37d19619-2566-4257-a308-5ed228286bfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909_droplist']/div[2]/div[2]/div/ul/li[4]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[title=&quot;Larnaka/Λάρνακας&quot;] > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>fddeef5c-aefb-4e15-9525-a612e6961da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Larnaka/Λάρνακας</value>
+      <webElementGuid>5b76b34e-1e4b-4999-92af-07164d26cf26</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909_droplist&quot;)/div[@class=&quot;drop-menu-m&quot;]/div[@class=&quot;drop-menu-m-c&quot;]/div[@class=&quot;drop-menu-wrapper&quot;]/ul[@class=&quot;drop-menu&quot;]/li[4]/a[1]/span[1]</value>
+      <webElementGuid>56924b26-2938-4a7e-931e-0160c01650e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2</value>
+      <webElementGuid>287a899a-a86a-405e-b029-72d044a2d656</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909_droplist']/div[2]/div[2]/div/ul/li[4]/a/span</value>
+      <webElementGuid>683b0402-d18b-4928-9a6f-c455641cac31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Keryneia/Κερύνειας'])[1]/following::span[1]</value>
+      <webElementGuid>b537f0a8-d144-4836-9e65-419c64b6bc80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ammochostos/Αμμοχώστου'])[1]/following::span[2]</value>
+      <webElementGuid>69649816-f216-43d8-a642-ece4d197e2af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lefkosia/Λευκωσίας'])[1]/preceding::span[1]</value>
+      <webElementGuid>caa38507-ee6a-441a-a6f8-5817123f8c02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lemesos/Λεμεσού'])[1]/preceding::span[2]</value>
+      <webElementGuid>23323a9d-993b-4cf6-943d-5fc9fb35061f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Larnaka/Λάρνακας']/parent::*</value>
+      <webElementGuid>62460689-2340-436d-8474-22425666a55f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div/ul/li[4]/a/span</value>
+      <webElementGuid>9e3fb62c-3fd7-4f61-bb97-45851df6b7da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Larnaka/Λάρνακας' or . = 'Larnaka/Λάρνακας')]</value>
+      <webElementGuid>d627eb86-80c0-40c1-9db5-30aec2b364ba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

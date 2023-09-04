@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Business Dashboard_line line-3</name>
+   <tag></tag>
+   <elementGuidId>d1c13714-36b8-4c21-8b08-81d194038f23</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header__main-nav']/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.line.line-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af22d470-af1e-4fc3-a0ff-d32e7be10955</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line line-3</value>
+      <webElementGuid>63820bee-e0d7-4e9c-8a30-05548a056b99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__main-nav&quot;)/div[@class=&quot;header__main-nav--hamburger opened&quot;]/div[@class=&quot;line line-3&quot;]</value>
+      <webElementGuid>c7007ef1-9c41-4e25-8ae2-9d0564f20c5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header__main-nav']/div/div[3]</value>
+      <webElementGuid>6263cace-9711-4d1d-a0f7-be00a8c4279a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[3]</value>
+      <webElementGuid>56dca7ab-036c-4f67-b209-b559566af8c9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

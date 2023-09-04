@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img_1</name>
+   <tag></tag>
+   <elementGuidId>27bdd24f-f841-44d6-9331-fd6db5c96b87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='5c8e492d-f256-4132-a134-d8c3f86050aa']/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#5c8e492d-f256-4132-a134-d8c3f86050aa > div.checkbox-outer-panel > label.input-control.checkbox > span.input-control-img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>70c04a6c-18d4-46a7-ac97-cfd733097068</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>f683c709-56b6-49b7-a88a-905e3f33d869</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;5c8e492d-f256-4132-a134-d8c3f86050aa&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>e7745fcf-37a9-4efa-92c0-8e6098b37ba5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4_5</value>
+      <webElementGuid>099af4a3-4166-4d8a-b0d9-aa5a58f4661a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='5c8e492d-f256-4132-a134-d8c3f86050aa']/div/label/span</value>
+      <webElementGuid>b8a51802-898e-4983-9833-b3010fcf91ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[10]/div/label/span</value>
+      <webElementGuid>414e06c2-98ed-4376-828b-61426a261e86</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

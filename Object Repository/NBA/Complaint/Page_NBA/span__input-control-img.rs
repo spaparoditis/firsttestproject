@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img</name>
+   <tag></tag>
+   <elementGuidId>ad9b58d7-713d-4c78-b9db-7e7312607823</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-control.checkbox > span.input-control-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='cd77b2c5-5cb6-42eb-b98f-99116e73826f']/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>542928b7-0802-49a9-9c1f-66975261f87f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>79ce0158-bd86-419f-9671-d7b088d95ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cd77b2c5-5cb6-42eb-b98f-99116e73826f&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>4f198c44-9af4-4e09-bc0b-8c2cc465a45b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Complaint/Page_NBA/iframe_Application_frame-content</value>
+      <webElementGuid>82011d3a-5e1f-4ec4-94c5-482337a3d129</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='cd77b2c5-5cb6-42eb-b98f-99116e73826f']/div/label/span</value>
+      <webElementGuid>c627c1fa-1463-4646-a1f0-5f262539357c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[3]/div/label/span</value>
+      <webElementGuid>7c61599b-2810-47d2-866b-0e65eaeea830</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

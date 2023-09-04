@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_CONTACT US</name>
+   <tag></tag>
+   <elementGuidId>15db0410-21d8-4005-ae9e-650bb0113d30</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ctl00_hypLinkHeaderContactUs']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#ctl00_hypLinkHeaderContactUs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>18be0087-2b48-41ba-98b1-9c40c349542a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>ctl00_hypLinkHeaderContactUs</value>
+      <webElementGuid>1b5b757a-14c6-49ae-8e07-046a241712f1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/EN/Pages/Contact-Us.aspx</value>
+      <webElementGuid>11caca1c-d565-4d86-9fe1-9f1dac87b056</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>CONTACT US</value>
+      <webElementGuid>17f6df40-d5b1-4724-9937-9e33c9c3fd85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ctl00_hypLinkHeaderContactUs&quot;)</value>
+      <webElementGuid>6d757c10-135a-4036-894d-81af77bcaa0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='ctl00_hypLinkHeaderContactUs']</value>
+      <webElementGuid>a66c6031-264a-4af3-a03a-daa1ef9b50a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar']/ul/li/a</value>
+      <webElementGuid>ec8a1db9-71f9-48d5-84a6-5981aa0b1303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'CONTACT US')]</value>
+      <webElementGuid>938b466f-3423-48ee-a5be-f3b7a7ac1663</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='English'])[1]/following::a[1]</value>
+      <webElementGuid>f6aab679-ab7f-4a25-a19c-8802b3d65ea0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ελληνικά'])[1]/following::a[1]</value>
+      <webElementGuid>71d7860f-442e-4325-8226-29af815f0681</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LOGIN'])[1]/preceding::a[1]</value>
+      <webElementGuid>4e45a98b-dbad-46f8-a9a8-c8eb7f16bb12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='REGISTER'])[1]/preceding::a[2]</value>
+      <webElementGuid>c8a99b77-d25c-4326-b4e1-9aef872cb7e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='CONTACT US']/parent::*</value>
+      <webElementGuid>212088c6-7eba-4f75-87c9-9ddb72a99e60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/EN/Pages/Contact-Us.aspx')]</value>
+      <webElementGuid>0a4e5e81-ff48-40c2-8631-534881a1fde9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li/a</value>
+      <webElementGuid>8b55dcba-b2c2-45f5-8556-2b25dcf20438</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@id = 'ctl00_hypLinkHeaderContactUs' and @href = '/EN/Pages/Contact-Us.aspx' and (text() = 'CONTACT US' or . = 'CONTACT US')]</value>
+      <webElementGuid>d29437e6-5135-476f-adc3-95fa3709a341</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

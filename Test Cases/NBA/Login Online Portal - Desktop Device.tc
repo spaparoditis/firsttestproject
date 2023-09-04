@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login Online Portal - Desktop Device</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>1ab3ce29-d5a8-4b5b-a3a0-09e13acbeaf0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0f75a2d2-fd2c-46f7-87d0-7c9c694f72ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f75a2d2-fd2c-46f7-87d0-7c9c694f72ff</id>
+      <masked>false</masked>
+      <name>browserName</name>
+   </variable>
+</TestCaseEntity>

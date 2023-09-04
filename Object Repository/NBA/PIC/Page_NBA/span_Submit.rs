@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Submit</name>
+   <tag></tag>
+   <elementGuidId>b52cfbd5-346b-4812-a882-ee5260feb196</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div[3]/div/div[2]/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ant-btn.ant-btn-default > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ed1fafcf-a13c-4976-9998-bb681e0054a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Submit</value>
+      <webElementGuid>0c96392c-f5ef-433f-9395-c476da0407f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-page&quot;]/div[@class=&quot;rc-scrollbars-container sc-hAZoDl eayMnQ&quot;]/div[@class=&quot;rc-scrollbars-view&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;container form-container&quot;]/div[@class=&quot;sc-himrzO lowysZ&quot;]/div[@class=&quot;panel&quot;]/div[@class=&quot;sc-fLlhyt dPPaPe submit-btn&quot;]/button[@class=&quot;ant-btn ant-btn-default&quot;]/span[1]</value>
+      <webElementGuid>ac65c334-8d52-4105-8ad8-93dd9a1f839a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div[3]/div/div[2]/button/span</value>
+      <webElementGuid>828924fc-7ab4-4406-8912-36b359a73b9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Processing of Personal Data'])[2]/following::span[1]</value>
+      <webElementGuid>a9fcca26-c5da-4398-98a1-5dccc7557df6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Declaration'])[1]/following::span[1]</value>
+      <webElementGuid>5bb8a6fb-1d1e-45b1-a86a-4ed7bc348553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copyright 2023 © National Betting Authority, All Rights Reserved.'])[1]/preceding::span[1]</value>
+      <webElementGuid>2bb9545c-bb59-4c9c-9e50-81a3c19653e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SITEMAP'])[1]/preceding::span[2]</value>
+      <webElementGuid>25aac2bf-c8b5-4edb-917d-87c13f0ef47f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Submit']/parent::*</value>
+      <webElementGuid>7b4e55e5-9451-48ba-b045-d1d24d0b860e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>2cc7b5d8-f67c-446d-a882-aee2a47f5469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Submit' or . = 'Submit')]</value>
+      <webElementGuid>80f6e1e5-645b-4171-92db-959caaef72d5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a__input-control  styling-font</name>
+   <tag></tag>
+   <elementGuidId>57da3355-45cb-46c4-9a72-2643c5ae0e26</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909']/div/div/div[2]/div[2]/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909 > div.styling-outer-wrapper > div.input-control-body.styling-left.styling-inner-wrapper > div.input-control-m > div.input-control-m-c > div.input-control-wrapper > a.input-control.styling-font</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>cbde39dd-4425-473f-ada4-219c75621fcc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:;</value>
+      <webElementGuid>e0dfea16-bafa-48a6-90df-b29c63d06801</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>c9d3104d-31e6-4fb3-a316-4540f09350f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control  styling-font</value>
+      <webElementGuid>9962065a-1a08-4adf-b489-9b1c3b865b42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909&quot;)/div[@class=&quot;styling-outer-wrapper&quot;]/div[@class=&quot;input-control-body  styling-left styling-inner-wrapper&quot;]/div[@class=&quot;input-control-m&quot;]/div[@class=&quot;input-control-m-c&quot;]/div[@class=&quot;input-control-wrapper&quot;]/a[@class=&quot;input-control  styling-font&quot;]</value>
+      <webElementGuid>724d5b68-6433-40f7-8c6a-e650ddf06c18</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2</value>
+      <webElementGuid>c73a8d46-8e19-4750-a701-82ca950ae3e0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='6966afbd-4402-4674-ba61-d9e34c6b504a_cfc47ab0-ff50-4876-af35-1cea24897909']/div/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>f2682816-193f-4325-aac3-47ca3f0954d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[12]/following::a[1]</value>
+      <webElementGuid>a2ca3e27-6fb4-43de-82c7-b73f9be3932d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='District:'])[1]/following::a[1]</value>
+      <webElementGuid>221aa9cb-11a6-46f7-8db1-0b4b019b46fb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[8]/preceding::a[1]</value>
+      <webElementGuid>4d807a22-7311-45ac-88e6-083f74dec035</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Town:'])[1]/preceding::a[2]</value>
+      <webElementGuid>c59b6293-65b5-4f95-8f6a-bd2a80b828d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:;')])[19]</value>
+      <webElementGuid>db6c47d3-004c-4308-8961-4cb846ea2024</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/div/div/div[2]/div[2]/div/a</value>
+      <webElementGuid>f0241c54-b16a-4be8-9ed4-4e26feeb2293</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:;']</value>
+      <webElementGuid>639ddd41-2bd0-406f-8fe4-caf9ce219e46</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

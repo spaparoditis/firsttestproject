@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img</name>
+   <tag></tag>
+   <elementGuidId>7c804b3b-af7b-4dae-a3e0-1472be12fbd6</elementGuidId>
+   <imagePath></imagePath>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='4ccc4c50-2e5c-4a63-a041-f978247d9723_e046f48b-b185-4840-8095-4383736d3f48']/div/div/div/div/div/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.input-control-img</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;4ccc4c50-2e5c-4a63-a041-f978247d9723_e046f48b-b185-4840-8095-4383736d3f48&quot;)/div[@class=&quot;stylewrapper&quot;]/div[@class=&quot;controlWrapper&quot;]/div[@class=&quot;stackContainer radio&quot;]/div[@class=&quot;stack&quot;]/div[@class=&quot;choice-control-item-row&quot;]/label[@class=&quot;input-control radio&quot;]/span[@class=&quot;input-control-img&quot;][count(. | //*[@ref_element = 'Object Repository/NBA/Contact Us Anonymous User/Page_- Contact Us/iframe_Contact Us_K2smartformFrame']) = count(//*[@ref_element = 'Object Repository/NBA/Contact Us Anonymous User/Page_- Contact Us/iframe_Contact Us_K2smartformFrame'])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>b4816824-c111-4c6b-83d1-ea206c800bf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>61869f93-90e5-4bf8-adca-3e35aab1b8a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;4ccc4c50-2e5c-4a63-a041-f978247d9723_e046f48b-b185-4840-8095-4383736d3f48&quot;)/div[@class=&quot;stylewrapper&quot;]/div[@class=&quot;controlWrapper&quot;]/div[@class=&quot;stackContainer radio&quot;]/div[@class=&quot;stack&quot;]/div[@class=&quot;choice-control-item-row&quot;]/label[@class=&quot;input-control radio&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>1774b706-86b3-4780-87ea-bf471bb9b1d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Contact Us Anonymous User/Page_- Contact Us/iframe_Contact Us_K2smartformFrame</value>
+      <webElementGuid>e4464987-d45b-4358-b5c2-ce292cfdcb86</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='4ccc4c50-2e5c-4a63-a041-f978247d9723_e046f48b-b185-4840-8095-4383736d3f48']/div/div/div/div/div/label/span</value>
+      <webElementGuid>bc834ecc-f4a4-406f-9c36-0c979af1775a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/span</value>
+      <webElementGuid>1d6554cc-c38e-4fe7-bd01-5954c4243c7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

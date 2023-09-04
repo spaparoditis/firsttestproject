@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pan11_line line-3</name>
+   <tag></tag>
+   <elementGuidId>dd4c6ff1-2aef-4f1e-9203-a70aecb77ef5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//nav[@id='header__main-nav']/div/div[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.line.line-3</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e902aa07-f047-4b67-896f-1e0bcaf63d95</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>line line-3</value>
+      <webElementGuid>84afb124-a237-473a-89d0-26e5ffbe5f32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;header__main-nav&quot;)/div[@class=&quot;header__main-nav--hamburger&quot;]/div[@class=&quot;line line-3&quot;]</value>
+      <webElementGuid>40d21c74-54cf-4e45-9323-df1a9fc957a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//nav[@id='header__main-nav']/div/div[3]</value>
+      <webElementGuid>07d07d16-0053-4d96-abc1-e200d00e7e99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//nav/div/div[3]</value>
+      <webElementGuid>9988422e-e513-4dcd-9fc7-66f97a2f5505</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

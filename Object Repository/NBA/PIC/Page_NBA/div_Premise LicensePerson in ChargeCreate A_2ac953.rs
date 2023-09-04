@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Premise LicensePerson in ChargeCreate A_2ac953</name>
+   <tag></tag>
+   <elementGuidId>6e73efd9-6512-48ab-ad62-fb9c2c869126</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div/div[2]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sc-dmRaPn.gTKlgJ</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>54a9657e-96f0-4437-be7e-99cb5a043b12</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dmRaPn gTKlgJ</value>
+      <webElementGuid>a7f11622-b4a9-48ec-a9cf-8163458d0686</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Premise LicensePerson in ChargeCreate Application</value>
+      <webElementGuid>c60ad77f-6885-4ec9-a522-084b317b9439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;main-page&quot;]/div[@class=&quot;rc-scrollbars-container sc-hAZoDl eayMnQ&quot;]/div[@class=&quot;rc-scrollbars-view&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/section[@class=&quot;ant-layout ant-layout-has-sider sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/section[@class=&quot;ant-layout sc-ksZaOG fkmLfx&quot;]/main[@class=&quot;ant-layout-content&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;sc-hHLeRK dPHaot new-application-page&quot;]/div[@class=&quot;ant-row new-application-page_license-info&quot;]/div[@class=&quot;ant-col ant-col-24&quot;]/div[@class=&quot;sc-dmRaPn gTKlgJ&quot;]</value>
+      <webElementGuid>dc0ab2b2-ce90-4fc4-8756-9826361675a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div/div/section/section/main/section/main/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>40d1a25f-0616-4ecc-893d-d80acb8437f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose license type'])[1]/following::div[1]</value>
+      <webElementGuid>81466669-584a-4257-a39a-70727257758c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operator License Type'])[1]/following::div[4]</value>
+      <webElementGuid>c6994d6f-4f3a-42f6-b098-42b2b7d6f700</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//main/div/div/div[2]/div/div[2]</value>
+      <webElementGuid>531f3f2b-edb6-45fd-a6ce-f15de8db4e37</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Premise LicensePerson in ChargeCreate Application' or . = 'Premise LicensePerson in ChargeCreate Application')]</value>
+      <webElementGuid>f97e4fbd-35e0-480d-87e4-2cd9338625df</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

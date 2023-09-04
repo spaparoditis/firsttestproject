@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_GERMANY</name>
+   <tag></tag>
+   <elementGuidId>e94acc01-f671-45c9-8eb1-aa2db4f9048a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d_droplist']/div[2]/div[2]/div/ul/li[84]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li[title=&quot;GERMANY/ΓΕΡΜΑΝΙΑ&quot;] > a > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9b2c667c-942c-4288-b5d1-056a37652df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GERMANY/ΓΕΡΜΑΝΙΑ</value>
+      <webElementGuid>768eac30-d4d2-4443-828e-a328a1a0536d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d_droplist&quot;)/div[@class=&quot;drop-menu-m&quot;]/div[@class=&quot;drop-menu-m-c&quot;]/div[@class=&quot;drop-menu-wrapper&quot;]/ul[@class=&quot;drop-menu&quot;]/li[84]/a[1]/span[1]</value>
+      <webElementGuid>8e7419e3-0f48-4662-9f31-e49f2d6c37db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1</value>
+      <webElementGuid>6bfe5146-953b-41ca-8da0-12e8261a62d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d_droplist']/div[2]/div[2]/div/ul/li[84]/a/span</value>
+      <webElementGuid>d88a21d6-1569-4751-bc89-710159496ca5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GEORGIA/ΓΕΩΡΓΙΑ'])[1]/following::span[1]</value>
+      <webElementGuid>bd529b89-19b2-40aa-a802-694962699f13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GAMBIA/ΓΚΑΜΠΙΑ'])[1]/following::span[2]</value>
+      <webElementGuid>53785539-ba33-4052-88f6-8b37d911985f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GHANA/ΓΚΑΝΑ'])[1]/preceding::span[1]</value>
+      <webElementGuid>72f294a3-0c54-4d70-9028-00f3c1117fe9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GIBRALTAR/ΓΙΒΡΑΛΤΑΡ'])[1]/preceding::span[2]</value>
+      <webElementGuid>1ee0c284-d835-4178-9767-b377fc9a4649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='GERMANY/ΓΕΡΜΑΝΙΑ']/parent::*</value>
+      <webElementGuid>0f5cc98d-3827-4c36-a279-0780db1bad29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[84]/a/span</value>
+      <webElementGuid>b8c816d6-a837-4cb5-8688-9f4a6e383649</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'GERMANY/ΓΕΡΜΑΝΙΑ' or . = 'GERMANY/ΓΕΡΜΑΝΙΑ')]</value>
+      <webElementGuid>dca421aa-67b8-4dd1-b56f-f1ddb2ff27fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

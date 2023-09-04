@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add</name>
+   <tag></tag>
+   <elementGuidId>2bbf0a61-b40f-4e8f-a62e-7d4a72b56d78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='6df8ea10-f1e5-377c-e725-ec86a1db6ae0_23899004-1f60-474d-dea8-04909bfe1a11_ToolbarButton']/span[2]/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#6df8ea10-f1e5-377c-e725-ec86a1db6ae0_23899004-1f60-474d-dea8-04909bfe1a11_ToolbarButton > span.button-c > span.button-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>8ecf7715-4090-40b5-ad2a-5d5abcc6cd4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-text</value>
+      <webElementGuid>646fc0a4-def5-494b-af6a-5297d0d86eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>d43bb1e9-eaa5-4d89-beed-145300008952</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;6df8ea10-f1e5-377c-e725-ec86a1db6ae0_23899004-1f60-474d-dea8-04909bfe1a11_ToolbarButton&quot;)/span[@class=&quot;button-c&quot;]/span[@class=&quot;button-text&quot;]</value>
+      <webElementGuid>5f12b84a-be6c-46b8-afad-c7d3d183e82e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1_2_3_4</value>
+      <webElementGuid>533175b2-97d0-4c36-a104-926b15a4a0c8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='6df8ea10-f1e5-377c-e725-ec86a1db6ae0_23899004-1f60-474d-dea8-04909bfe1a11_ToolbarButton']/span[2]/span[2]</value>
+      <webElementGuid>d1f43505-269a-45b3-b150-a93e95e6f845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Copy of Residence Permit:*'])[1]/following::span[5]</value>
+      <webElementGuid>43564c07-92ec-4a47-a1e6-fe1cd8f96011</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Click here to attach a file'])[11]/following::span[6]</value>
+      <webElementGuid>205a8fd5-3443-4501-b735-544b84601a9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[4]/preceding::span[4]</value>
+      <webElementGuid>ec29a924-184b-48d6-81c1-bc1eb91bf658</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete'])[11]/preceding::span[9]</value>
+      <webElementGuid>ffa879ca-b64c-4739-bf59-27e16bacf4ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div[2]/div/div/div/table/tbody/tr/td/a/span[2]/span[2]</value>
+      <webElementGuid>6cf90bcf-e488-4581-b841-2ff1ba470a70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>e011541c-e90a-413e-8a9b-8d379bd29cb9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

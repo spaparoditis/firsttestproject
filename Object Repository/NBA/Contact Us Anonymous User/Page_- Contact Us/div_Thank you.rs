@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Thank you</name>
+   <tag></tag>
+   <elementGuidId>365fa584-137a-4443-88f9-96f2e1d43c9a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='PopupWin_8e29f599-cf8a-3b84-4172-f457446573f5']/div/div[2]/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.popup-header-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fb788ee6-a8a6-4e0d-9d8b-ac5f5aece4bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>popup-header-text</value>
+      <webElementGuid>423fda6a-852e-4b92-8c4e-b1c3e6f82402</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Thank you</value>
+      <webElementGuid>dd6e4873-fddb-4d45-883f-741ee079c7ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PopupWin_8e29f599-cf8a-3b84-4172-f457446573f5&quot;)/div[@class=&quot;popup-header&quot;]/div[@class=&quot;popup-header-c&quot;]/div[@class=&quot;popup-header-wrapper&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;popup-header-text&quot;]</value>
+      <webElementGuid>a12bc364-2b4e-4b95-bf13-0c11fc011f82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Contact Us Anonymous User/Page_- Contact Us/iframe_Contact Us_K2smartformFrame</value>
+      <webElementGuid>39529437-8eb2-4379-aa73-2adc0df49665</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='PopupWin_8e29f599-cf8a-3b84-4172-f457446573f5']/div/div[2]/div/div/div</value>
+      <webElementGuid>b350dd88-4d93-4599-9dcd-43648ebb2b56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Draft'])[2]/following::div[28]</value>
+      <webElementGuid>46f7795b-faa0-492e-ad6b-a47f05ea121d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CommunicationStatusName'])[1]/following::div[28]</value>
+      <webElementGuid>202d0674-8b9b-4efd-b9f7-3e1f92e7dd70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[30]</value>
+      <webElementGuid>5723a98f-40a2-468e-877c-2f2353109ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thank you']/parent::*</value>
+      <webElementGuid>26ef9fb2-1864-477b-b0f1-9564d25014c4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div/div[2]/div/div/div</value>
+      <webElementGuid>88a0c569-b6af-44ca-9f69-cf518e2bb238</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Thank you' or . = 'Thank you')]</value>
+      <webElementGuid>c7365612-f420-4b51-bf4b-bd883b02630a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

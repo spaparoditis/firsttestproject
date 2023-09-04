@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_</name>
+   <tag></tag>
+   <elementGuidId>01a266de-9451-4f22-b0dc-779971ffb735</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d']/div/div[2]/a/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.dropdown.border-left-only > span > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>be7bc255-6ddb-43cb-b3f9-a887fe40334f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>...</value>
+      <webElementGuid>4dbb716d-09c0-4a81-93ee-c758448357d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d&quot;)/div[@class=&quot;styling-outer-wrapper&quot;]/div[@class=&quot;input-control-buttons styling-right styling-inner-wrapper&quot;]/a[@class=&quot;dropdown border-left-only&quot;]/span[1]/span[1]</value>
+      <webElementGuid>d11eacdd-cfc2-4238-a73d-fbdeb18c7fa3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1</value>
+      <webElementGuid>e2510a67-9c0d-4c5c-96f5-8c1489b581f0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='617b7581-a7a0-481a-bb65-888c482e0116_45fd423c-dd46-4fa8-a9af-1fac93b9701d']/div/div[2]/a/span/span</value>
+      <webElementGuid>5d54632e-6676-47f9-b78b-3ff9929b6391</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[7]/following::span[5]</value>
+      <webElementGuid>d8ae33c4-2957-4751-a1ee-64b473fa1c8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Place of Issuance:'])[1]/following::span[6]</value>
+      <webElementGuid>29e4aa2d-0054-4866-b872-29d66dae95cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Warning'])[1]/preceding::span[3]</value>
+      <webElementGuid>3061a43a-0787-40de-836e-1c68f36d5856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Application Contact must be between 18 and 80 years old.'])[1]/preceding::span[4]</value>
+      <webElementGuid>1fa19578-f32e-4223-b92a-25b147c828ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span/div/div/div[2]/a/span/span</value>
+      <webElementGuid>d62ebca1-601a-4881-9065-ae15bb87796e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '...' or . = '...')]</value>
+      <webElementGuid>458514ce-91ec-4235-a891-79740910f036</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

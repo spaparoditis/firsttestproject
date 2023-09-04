@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__input-control-img</name>
+   <tag></tag>
+   <elementGuidId>16755132-bdc0-4914-bdfb-ae22138caa9f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>label.input-control.checkbox > span.input-control-img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='90988502-774e-48e3-a5c6-a981c2d92601']/div/label/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>f38b94af-bf73-42e8-9b72-2ab8b62e6fdb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-img</value>
+      <webElementGuid>68b47e37-4b07-4eac-96d9-a9a729333e35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;90988502-774e-48e3-a5c6-a981c2d92601&quot;)/div[@class=&quot;checkbox-outer-panel&quot;]/label[@class=&quot;input-control checkbox&quot;]/span[@class=&quot;input-control-img&quot;]</value>
+      <webElementGuid>5f2ec8ea-c27d-448f-826b-4b28d5857d49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/Contact Us Registered User/Page_NBA/iframe_Send Contact Us_frame-content</value>
+      <webElementGuid>a71ff8be-8833-4382-ae5f-7dab4d50c5e1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='90988502-774e-48e3-a5c6-a981c2d92601']/div/label/span</value>
+      <webElementGuid>51efe710-5a2a-48ee-9a85-6d639b87381f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[13]/div/label/span</value>
+      <webElementGuid>b32c0299-9174-4498-a4e3-14a4a18ff796</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

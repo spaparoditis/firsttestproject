@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Alien Registration Number</name>
+   <tag></tag>
+   <elementGuidId>19b10700-f6d3-49e3-9a8d-70e4348c4151</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//label[@id='617b7581-a7a0-481a-bb65-888c482e0116_2e06b16c-3ad9-4134-a0c7-5e92861e56f2_radioButtonItem_0_base']/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#617b7581-a7a0-481a-bb65-888c482e0116_2e06b16c-3ad9-4134-a0c7-5e92861e56f2_radioButtonItem_0_base > span.input-control-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>719fbb22-c0c9-48da-b9b9-781ec6397135</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input-control-text</value>
+      <webElementGuid>b15d89e4-6b2b-41b7-82ce-36ce5d78b239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alien Registration Number</value>
+      <webElementGuid>60c65f4c-d412-43db-8c67-59aa47a5921a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;617b7581-a7a0-481a-bb65-888c482e0116_2e06b16c-3ad9-4134-a0c7-5e92861e56f2_radioButtonItem_0_base&quot;)/span[@class=&quot;input-control-text&quot;]</value>
+      <webElementGuid>b3faba19-bd71-4d47-87ff-b9f4807fbfad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/NBA/PIC/Page_NBA/iframe_Check Application Status_frame-content_1</value>
+      <webElementGuid>cf1fcf9f-ee47-4499-9c5a-c1d45cbf6e68</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='617b7581-a7a0-481a-bb65-888c482e0116_2e06b16c-3ad9-4134-a0c7-5e92861e56f2_radioButtonItem_0_base']/span[2]</value>
+      <webElementGuid>9f742139-01dc-4b84-b83e-820a3d8d1835</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Please complete either Alien Registration Number or European Citizen Registration Number'])[1]/following::span[2]</value>
+      <webElementGuid>eee501b0-d888-4ef7-8987-2fd59f403346</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...'])[4]/following::span[5]</value>
+      <webElementGuid>0a967bd0-bcff-4f45-ad1f-2bebaa2e776d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='European Citizen Registration Number'])[1]/preceding::span[2]</value>
+      <webElementGuid>06d62e57-44a0-4c8a-95f1-7feeac9f46a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No items to display'])[2]/preceding::span[3]</value>
+      <webElementGuid>4a934e3e-c800-4b1a-98ab-218632dfbca6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alien Registration Number']/parent::*</value>
+      <webElementGuid>3fd7f339-28af-4481-a780-a311b543bedc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]/div/span/div/div[2]/div[2]/div/div/div/div/label/span[2]</value>
+      <webElementGuid>1f6e6597-7111-4ac5-990f-13c26d049969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alien Registration Number' or . = 'Alien Registration Number')]</value>
+      <webElementGuid>ef0430ad-6ba3-4b72-a240-6431b5b01788</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
